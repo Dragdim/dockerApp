@@ -21,4 +21,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: public
-          path: '/usr/src/app/dist/dockerApp/'
+          path: '~/usr/src/app/dist/dockerApp/'
